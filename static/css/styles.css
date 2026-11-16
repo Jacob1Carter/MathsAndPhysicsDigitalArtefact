@@ -1,0 +1,12 @@
+
+html, head, body {
+    margin: 0;
+    padding: 10px;
+    background-color: #000;
+}
+
+#canvas {
+    width: 800px;
+    height: 600px;
+    background-color: #8AcE00;
+}
